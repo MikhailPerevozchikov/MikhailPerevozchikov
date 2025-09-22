@@ -9,7 +9,7 @@ mikhail.perevozchikov1993@yandex.ru
 # Мои проекты:
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [ABC-XYZ анализ в SQL]((https://github.com/MikhailPerevozchikov/my_projects/blob/main/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%20SQL)) | Примеры SQL-запросов  | *SQL* / *PostgreSQL* |
+| [ABC-XYZ анализ в SQL](https://github.com/MikhailPerevozchikov/my_projects/blob/main/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%20SQL) | Примеры SQL-запросов  | *SQL* / *PostgreSQL* |
 | [Когортный и RFM-анализ в SQL](https://github.com/MikhailPerevozchikov/my_projects/blob/main/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B8%20RFM-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%20SQL) | Примеры SQL-запросов  | *SQL* / *PostgreSQL** |
 | [SQL-запросы примеры](https://github.com/MikhailPerevozchikov/my_projects/tree/main/SQL) | Примеры SQL-запросов  | *SQL* / *pandas* / *sqlalchemy* |
 | [SQL-базовый](https://github.com/MikhailPerevozchikov/my_projects/tree/main/sql_basic) | Примеры базовых SQL-запросов к реляционной базе данных  | *SQL* / *PostgreSQL*  |
