@@ -13,8 +13,7 @@ mikhail.perevozchikov1993@yandex.ru
 # Мои проекты:
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Аналитический в Google Sheets (Гугл Таблица)](https://docs.google.com/spreadsheets/d/1nHO6uNfkrFFK1AkvVrpMfqAwoSbIw4f2aDmu7l_Nv5k/edit?usp=sharing) | Аналитический в Google Sheets (Гугл Таблица) на примере работы парикмахерской
-Используя ВПР (VLOOKUP), визуализацию, сводные таблицы сделал Отчёт о выручке и расходах,  Отчёт о рентабельности промокампаний, Отчёт о популярности товаров и услуг и выручке от них - выявил точки ростах в решении бизнес-задачи  | Google Sheets (Гугл Таблица) |
+| [Аналитический в Google Sheets (Гугл Таблица)](https://docs.google.com/spreadsheets/d/1nHO6uNfkrFFK1AkvVrpMfqAwoSbIw4f2aDmu7l_Nv5k/edit?usp=sharing) | Аналитический в Google Sheets (Гугл Таблица) на примере работы парикмахерской Используя ВПР (VLOOKUP), визуализацию, сводные таблицы сделал Отчёт о выручке и расходах,  Отчёт о рентабельности промокампаний, Отчёт о популярности товаров и услуг и выручке от них - выявил точки ростах в решении бизнес-задачи  | Google Sheets (Гугл Таблица) |
 | [ABC-XYZ анализ в SQL](https://github.com/MikhailPerevozchikov/my_projects/blob/main/ABC-XYZ%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%20SQL) | ABC-XYZ анализ в SQL  | *SQL* / *PostgreSQL* |
 | [Когортный и RFM-анализ в SQL](https://github.com/MikhailPerevozchikov/my_projects/blob/main/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B8%20RFM-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%20SQL) | Когортный и RFM-анализ в SQL  | *SQL* / *PostgreSQL** |
 | [SQL-запросы примеры](https://github.com/MikhailPerevozchikov/my_projects/tree/main/SQL) | Примеры SQL-запросов  | *SQL* / *pandas* / *sqlalchemy* |
