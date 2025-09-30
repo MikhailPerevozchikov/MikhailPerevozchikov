@@ -2,6 +2,9 @@
 Занимаюсь аналитикой данных 📈
 
 Готов к сотрудничеству 🤝
+
+# Стек: Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, PostgreSQL, Tableau, Power BI, Power Query, DAX, Excel, Google Sheets, Jupyter Notebook
+
 # Контакты:
 https://t.me/perevozchikov
 
